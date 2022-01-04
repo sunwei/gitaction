@@ -28,5 +28,5 @@
 
 ### Menu
 
-- [Spec](spec.md)
-- [future](future.md)
+- [目录](spec.md)
+- [未来](future.md)
