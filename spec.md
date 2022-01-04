@@ -1,6 +1,6 @@
 # 目录
 
-## 2022第一个目标，也是最后一个 - Do one thing, and do it well!
+## 2022第一个目标，也是最后一个目标 - Do one thing, and do it well!
 
 2022给自己立一个flag: 手工打造一个专注于高品质的交付平台 - GitAction。
 本着少既是多，慢即是快，以及做正确的事为原则。
