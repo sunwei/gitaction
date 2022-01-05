@@ -23,10 +23,13 @@ endif
 # These docs are in an order that determines how they show up in the HTML docs.
 DOC_FILES := \
 	spec.md \
-	future.md
+	future.md \
+	positioning.md
 
 FIGURE_FILES := \
-	img/dream.JPG
+	img/dream.JPG \
+	img/landscape-cncf.png \
+	img/paas-cncf.png
 
 help:
 	@echo "Usage: make <target>"
