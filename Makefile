@@ -24,7 +24,8 @@ endif
 DOC_FILES := \
 	spec.md \
 	future.md \
-	positioning.md
+	positioning.md \
+	poc.md
 
 FIGURE_FILES := \
 	img/dream.JPG \
